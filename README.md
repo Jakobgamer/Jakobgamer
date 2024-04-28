@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **jakobgamer at discord**
+- 📫 How to reach me [Discord](https://discord.com/users/753596243866943490)
+
+- 💻 I use **Visual Studio Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/jakobgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jakobgamer" height="30" width="40" /></a>
+<a href="https://discord.gg/users/753596243866943490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/753596243866943490" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
