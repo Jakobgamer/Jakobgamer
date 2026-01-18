@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jakobgamer</h1>
+<h1 align="center">Hi 👋, I'm Jkbx</h1>
 <h3 align="center">A Bot Manager and Developer from Germany.</h3>
 
-- 🔭 I’m currently working on [Wave music](https://discord.gg/4j6QyyEYRe)
+- 🔭 I’m currently working on Minecraft Plugins
 
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me [Discord](https://discord.com/users/753596243866943490)
-
-- 💻 I use **Visual Studio Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
