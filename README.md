@@ -1,3 +1,8 @@
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Stay%20Hungry,%20Stay%20Foolish&fontAlign=50&animation=fadeIn&section=header&textBg=false&fontSize=55&fontColor=222222&desc=Just%20Do%20it%20|%20Keep%20Simple&descSize=15&fontAlignY=35)
+
+
+
 <h1 align="center">Hi 👋, I'm Jkbx</h1>
 <h3 align="center">A Bot Manager and Developer from Germany.</h3>
 
